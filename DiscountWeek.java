@@ -4,7 +4,7 @@ public class Discount {
       public static void main(String[] args) { 
         Scanner scanner = new Scanner(System.in);
          
-        System.out.print("Input the total purchase : ");
+        System.out.print("Input total purchase : ");
         int purchase = scanner.nextInt();
         int discount = 0;
          
