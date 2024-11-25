@@ -31,6 +31,6 @@ public class FinalScore {
             indeks = 'E';
         }
         
-        System.out.println("The score is "+score+" with index "+indeks);
+        System.out.println("The score is "+score+" with index score is "+indeks);
     } 
 }
